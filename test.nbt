@@ -1,0 +1,20 @@
+  TAG_Compound(''): 1 entry
+  {
+    TAG_Compound('servers'): 2 entries
+    {
+      TAG_Compound(None): 3 entries
+      {
+        TAG_Byte('acceptTextures'): 1
+        TAG_String('ip'): '199.167.132.229:25620'
+        TAG_String('name'): 'Dainz1 - Creative'
+
+      }
+      TAG_Compound(None): 3 entries
+      {
+        TAG_String('icon'): 'iVBORw0KGgoAAAANUhEUgAAAEAAAABACA...'
+        TAG_String('ip'): '76.127.122.65:25565'
+        TAG_String('name'): 'minstarmin4'
+
+      }
+    }
+  }
